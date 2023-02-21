@@ -1,0 +1,2 @@
+ Bubble sort is a sorting algorithm that is used to sort lists of elements. It works by comparing adjacent elements in the list and swapping them if they are out of order. This process is repeated until the list is sorted. Bubble sort is an example of an inefficient sorting algorithm, as it requires multiple
+ passes through the list and can take a long time to sort large lists of elements

@@ -1,0 +1,57 @@
+(command -options -flag -argumants)
+[commands](https://manpages.ubuntu.com/manpages/xenial/ru/man1/man.1.html)
+[commands](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+multipass
+multipass shell ubuntu
+sudo apt update - first command which we have to do before starting work
+pwd - print working directory
+clear -clean terminal
+apt - for downlauding
+Multipass list
+Alias ms=“multipass”
+
+
+
+### man - manual command (helps with finding any commands)
+man man - manual pager utils
+man top - general commands for Manual
+man htop -
+man cd -general commands Manuals
+
+### ls - list directory content (show folders or files in current directory)
+ls —help = help with commands or options
+a - all files
+l -long format (more info about list then just ls)
+
+
+### cd  directory name - change directory  (name or path)
+cd ~/directoty/folder/folder - all path from home to folder
+cd /directori/folder/folder - absolute path
+cd~ - do to home directory (superuser directory)
+cd/ - go to root directory (mackintosh)
+cd../ - go to previous level
+cd../../../ - go to 3 levels up (. - current directory,  .. - level up directory)
+
+### cp  -copy  (adress/name  new adress/)
+-r (copy with all content in folder)
+
+### mv  -move
+---
+
+### mk  -make 
+mkdir - create directory (mkdir directory/new_folder
+::Work with file:::
+-l - long format (ls -l)
+-r - revers (ls -r)
+touch - create file
+nano - open file for redact (create file if name of file not exist)
+rm  -remove
+rmdir  -remove directory
+
+Special marc:
+>   /  = root directory (sis admin)
+>  ~ = home directory
+> .   = current directory
+> ..  = 
+> 
+
